@@ -1,2 +1,2 @@
 # streamlit-doc-chat
-Upload a document and query it - hosted on Streamlit
+Upload a .txt document and query it. Hosted on Streamlit.
